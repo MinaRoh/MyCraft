@@ -12,6 +12,7 @@
 > [3. Implementation details](#3-implementation-details)<br>
 > [4. Roles](#4-roles)<br>
 > [5. Reference](#5-reference)<br>
+> [6. Technical note](#6-Technical-note)<br>
 
 ***
  # 1. Brief description
@@ -69,3 +70,8 @@ we would like to create an architectural version of a mini-Minecraft that allows
  Camera : https://threejs.org/docs/#examples/en/controls/OrbitControls <br>
  Shadow : https://threejsfundamentals.org/threejs/lessons/kr/threejs-shadows.html <br>
  Texture: https://polyhaven.com/textures , http://texturelib.com/ <br>
+
+***
+ # 6. Technical note
+ 
+ [Team D_Computer Graphics_Technical notes.pdf](https://github.com/MinaRoh/MyCraft/files/7583261/Team.D_Computer.Graphics_Technical.notes.pdf)
